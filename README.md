@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dipanshu-kubde-6a3baa200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://discord.com/channels/791531331078848512/791531331078848515">
+    <img src="https://img.shields.io/badge/Discord-cornflowerblue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -33,11 +33,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Proficient in building web applications using MongoDB, Express.js, React.js, and Node.js, React Native, with a strong understanding of RESTful APIs and server-side rendering.
 
-- :seedling: Exploring Technical Content Writing.
+- :robot: Experienced in implementing Artificial Intelligence, Machine Learning, and Deep Learning algorithms to create intelligent applications and data-driven solutions.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :artificial_satellite: Skilled in using Figma for designing user interfaces and creating interactive prototypes, ensuring a seamless and intuitive user experience.
+
+- :cloud: Proficient in Git version control, CI/CD pipelines, cloud technologies, Docker containerization, and Kubernetes orchestration for efficient and scalable application development and deployment.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dipanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-kubde-6a3baa200/)
 
@@ -69,7 +71,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dipanshu-Kubde&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Kubde&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Dipanshu's github stats](https://github-readme-stats.vercel.app/api?username=Dipanshu-Kubde) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Kubde&layout=compact&theme=vision-friendly-dark)](https://github.com/Dipanshu-Kubde/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Kubde)](https://github.com/=Dipanshu-Kubde/github-readme-stats)-->
+
 <!--
 **Dipanshu-Kubde/Dipanshu-Kubde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
