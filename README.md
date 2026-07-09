@@ -31,64 +31,77 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer from India, focused on building scalable backend systems, full-stack applications, and AI-powered solutions.
 
-- :telescope: Proficient in building web applications using MongoDB, Express.js, React.js, and Node.js, React Native, with a strong understanding of RESTful APIs and server-side rendering.
+- :computer: Experienced in developing backend services using Java, Spring Boot, REST APIs, Hibernate/JPA, SQL, and microservices architecture.
 
-- :robot: Experienced in implementing Artificial Intelligence, Machine Learning, and Deep Learning algorithms to create intelligent applications and data-driven solutions.
+- :credit_card: Worked on production-grade payment systems involving transaction processing, API integrations, tokenization workflows, debugging, and secure data handling.
 
-- :artificial_satellite: Skilled in using Figma for designing user interfaces and creating interactive prototypes, ensuring a seamless and intuitive user experience.
+- :robot: Building AI-powered automation workflows using Python, LLM APIs, and AI-assisted development tools to improve engineering productivity.
 
-- :cloud: Proficient in Git version control, CI/CD pipelines, cloud technologies, Docker containerization, and Kubernetes orchestration for efficient and scalable application development and deployment.
+- :globe_with_meridians: Experienced in developing full-stack applications using React.js, JavaScript, HTML, CSS, and integrating responsive user interfaces with backend services.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dipanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-kubde-6a3baa200/)
+- :cloud: Familiar with cloud and DevOps practices including AWS, Docker, Jenkins, Git, CI/CD workflows, and containerized application deployment.
 
----
+- :test_tube: Interested in distributed systems, backend engineering, developer productivity tools, and applied AI.
+
+- :mailbox: How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-Dipanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-kubde-6a3baa200/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+
+<br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="45"/>
+
 </div>
 
 ---
 
-### :fire: My Stats :
+### :fire: GitHub Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dipanshu-Kubde&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
 
-<!-- ![Dipanshu's github stats](https://github-readme-stats.vercel.app/api?username=Dipanshu-Kubde) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipanshu-Kubde&theme=tokyonight&hide_border=true" />
 
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Kubde&layout=compact&theme=vision-friendly-dark)](https://github.com/Dipanshu-Kubde/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Dipanshu-Kubde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Kubde)](https://github.com/=Dipanshu-Kubde/github-readme-stats)-->
+<br><br>
 
-<!--
-**Dipanshu-Kubde/Dipanshu-Kubde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Kubde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+- 💳 **Payment Gateway & Fraud Detection Engine**  
+  Java, Spring Boot, Kafka, Redis, Docker, Microservices  
+  [Repository](https://github.com/Dipanshu-Kubde/payment-gateway)
+
+- 🛒 **SneakerHead E-Commerce Platform**  
+  React.js, Spring Boot, MySQL  
+  Full-stack shopping application with REST APIs
+  [Repository](https://github.com/Dipanshu-Kubde/SneakerHead-Shoe-E-commerce-Platform)
+
+- 🤖 **SilentSync AI**  
+  Python, LLM APIs, AI Automation Workflows  
+  [Repository](https://github.com/Dipanshu-Kubde)
+
