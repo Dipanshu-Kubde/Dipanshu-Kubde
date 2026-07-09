@@ -72,6 +72,23 @@ I am a Software Engineer from India, focused on building scalable backend system
 
 ---
 
+### 🚀 Featured Projects
+
+- 💳 **Payment Gateway & Fraud Detection Engine**  
+  Java, Spring Boot, Kafka, Redis, Docker, Microservices  
+  [Repository](https://github.com/Dipanshu-Kubde/payment-gateway)
+
+- 🛒 **SneakerHead E-Commerce Platform**  
+  React.js, Spring Boot, MySQL  
+  Full-stack shopping application with REST APIs
+  [Repository](https://github.com/Dipanshu-Kubde/SneakerHead-Shoe-E-commerce-Platform)
+
+- 🤖 **SilentSync AI**  
+  Python, LLM APIs, AI Automation Workflows  
+  [Repository](https://github.com/Dipanshu-Kubde)
+
+---
+  
 ### :fire: GitHub Stats :
 
 <div align="center">
@@ -88,20 +105,5 @@ I am a Software Engineer from India, focused on building scalable backend system
 
 </div>
 
----
 
-### 🚀 Featured Projects
-
-- 💳 **Payment Gateway & Fraud Detection Engine**  
-  Java, Spring Boot, Kafka, Redis, Docker, Microservices  
-  [Repository](https://github.com/Dipanshu-Kubde/payment-gateway)
-
-- 🛒 **SneakerHead E-Commerce Platform**  
-  React.js, Spring Boot, MySQL  
-  Full-stack shopping application with REST APIs
-  [Repository](https://github.com/Dipanshu-Kubde/SneakerHead-Shoe-E-commerce-Platform)
-
-- 🤖 **SilentSync AI**  
-  Python, LLM APIs, AI Automation Workflows  
-  [Repository](https://github.com/Dipanshu-Kubde)
 
